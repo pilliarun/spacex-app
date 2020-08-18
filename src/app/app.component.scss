@@ -1,0 +1,39 @@
+.title {
+    font-size: 21px;
+    margin-left: 20px ;
+}
+
+mat-card-subtitle  {
+
+    text-align: center;  text-decoration: underline;
+    text-underline-position: below;
+}
+
+.mat-chip.mat-standard-chip {
+    background-color:rgb(138, 231, 138);
+}
+
+.card {
+    margin:10px;
+}
+
+span {
+    display:inline;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.heading{
+    font-size: 10px;
+     margin-left: 1px;
+    text-align: left;
+}
+
+footer{
+text-align: center;
+// position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+
+}
